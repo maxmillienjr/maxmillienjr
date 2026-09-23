@@ -1,14 +1,12 @@
 # Max Millien
 
-**Principal Systems & AI Architect — PureTome Labs**
+**Principal Systems & AI Architect · PureTome Labs**
 
 <p>
-  <img src="https://img.shields.io/badge/Available-C2C_engagements-0A7E07?style=flat-square" alt="Available for C2C">
   <img src="https://img.shields.io/badge/Based-Greater_Boston-1F6FEB?style=flat-square" alt="Greater Boston">
-  <img src="https://img.shields.io/badge/Response-%3C_24h-555?style=flat-square" alt="Response under 24 hours">
 </p>
 
-I engineer high-performance AI infrastructure and compliance-hardened systems for Series A/B startups. Operating on a Corp-to-Corp vendor model, I drop into stalled roadmaps to stabilize complex backends, orchestrate agentic deployments, and clear technical bottlenecks with high velocity. Recent work includes a LangGraph + Neo4j + PGVector memory engine delivering a 40% narrative-coherence lift over standard RAG, and a HIPAA-compliant telehealth platform with AES-256-GCM PHI encryption on GCP.
+I build production AI systems and compliance-hardened backends end to end, from architecture through deployment. Recent work includes a LangGraph + Neo4j + PGVector memory engine that improved narrative coherence 40% over standard RAG, and a HIPAA-compliant telehealth platform with AES-256-GCM PHI encryption on GCP. I'm currently shipping booking and payments features for a health-tech client across Django/Celery and Next.js/GraphQL.
 
 ---
 
@@ -28,14 +26,11 @@ The following repositories are sanitized, IP-free extractions of production arch
   </a>
 </p>
 
-**[agent-native-monorepo](https://github.com/maxmillienjr/agent-native-monorepo)** — Production-grade monorepo chassis for stateful LangGraph agents. Three-tier memory integrating a NestJS microservice, PGVector semantic retrieval, and Neo4j knowledge graphs fused via Reciprocal Rank Fusion.
-> *Solves the "our agent forgets everything" problem without a ground-up rewrite.*
+**[agent-native-monorepo](https://github.com/maxmillienjr/agent-native-monorepo)** · Production-grade monorepo chassis for stateful LangGraph agents. Three-tier memory integrating a NestJS microservice, PGVector semantic retrieval, and Neo4j knowledge graphs fused via Reciprocal Rank Fusion.
 
-**[secure-data-vault](https://github.com/maxmillienjr/secure-data-vault)** — Compliance-hardened NestJS architecture for regulated data. AES-256-GCM envelope encryption with per-record DEKs, tamper-evident hash-chained audit trails, and strict Zod validation pipes.
-> *Ships the compliance story your auditor wants before you hire a security engineer.*
+**[secure-data-vault](https://github.com/maxmillienjr/secure-data-vault)** · Compliance-hardened NestJS architecture for regulated data. AES-256-GCM envelope encryption with per-record DEKs, tamper-evident hash-chained audit trails, and strict Zod validation pipes.
 
-**[realtime-voice-infra](https://github.com/maxmillienjr/realtime-voice-infra)** — Low-latency transport layer for voice AI. Backpressure-aware Socket.io streaming, AudioWorklet PCM capture, and collision-free IV construction for stable high-throughput sessions.
-> *Avoids the WebRTC tarpit without sacrificing session integrity.*
+**[realtime-voice-infra](https://github.com/maxmillienjr/realtime-voice-infra)** · Low-latency transport layer for voice AI. Backpressure-aware Socket.io streaming, AudioWorklet PCM capture, and collision-free IV construction for stable high-throughput sessions.
 
 ---
 
@@ -62,6 +57,9 @@ The following repositories are sanitized, IP-free extractions of production arch
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **AI & Data**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -74,6 +72,7 @@ The following repositories are sanitized, IP-free extractions of production arch
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Spartan UI](https://img.shields.io/badge/Spartan_UI-111?style=flat-square)
 
@@ -86,10 +85,10 @@ The following repositories are sanitized, IP-free extractions of production arch
 
 ---
 
-### Engagement
+### Contact
 
-Available for immediate Corp-to-Corp contract engagements to architect, rescue, or scale your infrastructure.
+Open to senior full-stack and AI engineering roles, Boston area or remote.
 
-**Contact** — [max.millien@puretome.com](mailto:max.millien@puretome.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxmillienjr](https://github.com/maxmillienjr)
+[max.millien@puretome.com](mailto:max.millien@puretome.com) · [linkedin.com/in/maxmill](https://linkedin.com/in/maxmill) · [github.com/maxmillienjr](https://github.com/maxmillienjr)
 
 <sub>PureTome and Quiet Horizons are private client engagements; the repositories above are sanitized architectural extractions.</sub>
